@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AppIMC\AppIMC\bin\Release\netstandard2.0\AppIMC.deps.json
+C:\Users\User\source\repos\AppIMC\AppIMC\bin\Release\netstandard2.0\AppIMC.dll
+C:\Users\User\source\repos\AppIMC\AppIMC\bin\Release\netstandard2.0\ref\AppIMC.dll
+C:\Users\User\source\repos\AppIMC\AppIMC\bin\Release\netstandard2.0\AppIMC.pdb
+C:\Users\User\source\repos\AppIMC\AppIMC\obj\Release\netstandard2.0\AppIMC.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AppIMC\AppIMC\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\AppIMC\AppIMC\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\AppIMC\AppIMC\obj\Release\netstandard2.0\AppIMC.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AppIMC\AppIMC\obj\Release\netstandard2.0\AppIMC.AssemblyInfo.cs
+C:\Users\User\source\repos\AppIMC\AppIMC\obj\Release\netstandard2.0\AppIMC.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AppIMC\AppIMC\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\AppIMC\AppIMC\obj\Release\netstandard2.0\AppIMC.dll
+C:\Users\User\source\repos\AppIMC\AppIMC\obj\Release\netstandard2.0\ref\AppIMC.dll
+C:\Users\User\source\repos\AppIMC\AppIMC\obj\Release\netstandard2.0\AppIMC.pdb
