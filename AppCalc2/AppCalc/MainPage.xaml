@@ -93,11 +93,11 @@
 
             <Button Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2"    
                     Style="{StaticResource botaoClaro}"
-                    x:Name="num0" Text="0" Clicked=""/>
+                    x:Name="num0" Text="0" Clicked="num0_Clicked"/>
             <Button Grid.Row="5" Grid.Column="2"
-                    Style="{StaticResource botaoClaro}" x:Name="ponto" Text="." Clicked=""/>
+                    Style="{StaticResource botaoClaro}" x:Name="ponto" Text="." Clicked="ponto_Clicked"/>
             <Button Grid.Row="5" Grid.Column="3"
-                    Style="{StaticResource botaoClaro}" x:Name="igual" Text="=" Clicked=""/>
+                    Style="{StaticResource botaoClaro}" x:Name="igual" Text="=" Clicked="igual_Clicked"/>
 
             <Label Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="4"
                    Text="Aprendendo Xamarin Forms e Desenvolvendo Apps"
@@ -107,8 +107,8 @@
                    HorizontalTextAlignment="Center">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Lobster-Regular.ttf#Lobster-Regular"
-                                iOS="Lobster-Regular"/>
+                                Android="Lobster 1.4.otf"
+                                iOS="Lobster 1.4.otf"/>
                 </Label.FontFamily>
             </Label>
         </Grid>

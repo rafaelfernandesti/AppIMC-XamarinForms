@@ -1051,11 +1051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc.iOS\\AppCalc.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc.iOS\\AppCalc.iOS.csproj",
       "projectName": "AppCalc.iOS",
-      "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc.iOS\\AppCalc.iOS.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc.iOS\\AppCalc.iOS.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc.iOS\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1076,8 +1076,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\AppCalc.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\AppCalc.csproj"
+            "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\AppCalc.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\AppCalc.csproj"
             }
           }
         }

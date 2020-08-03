@@ -77,5 +77,20 @@ namespace AppCalc
         {
 
         }
+
+        private void num0_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ponto_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void igual_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }

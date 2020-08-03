@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SelectedDevice>Asus _X00TDB</SelectedDevice>
-    <DefaultDevice>Android9</DefaultDevice>
+    <DefaultDevice>Android10</DefaultDevice>
     <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc.Android\\AppCalc.Android.csproj": {}
+    "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc.Android\\AppCalc.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc.Android\\AppCalc.Android.csproj": {
+    "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc.Android\\AppCalc.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc.Android\\AppCalc.Android.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc.Android\\AppCalc.Android.csproj",
         "projectName": "AppCalc.Android",
-        "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc.Android\\AppCalc.Android.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc.Android\\AppCalc.Android.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc.Android\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\AppCalc.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\AppCalc.csproj"
+              "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\AppCalc.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\AppCalc.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\AppCalc.csproj": {
+    "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\AppCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\AppCalc.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\AppCalc.csproj",
         "projectName": "AppCalc",
-        "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\AppCalc.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\AppCalc.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

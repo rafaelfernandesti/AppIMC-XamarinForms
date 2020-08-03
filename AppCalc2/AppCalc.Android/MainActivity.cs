@@ -21,6 +21,11 @@ namespace AppCalc.Droid
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+
+            Window.ClearFlags(WindowManagerFlags.TranslucentStatus);
+            Window.AddFlags(WindowManagerFlags.DrawsSystemBarBackgrounds);
+            Window.SetStatusBarColor(Android.Graphics.Color.ParseColor("#141414"));
+
             LoadApplication(new App());
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

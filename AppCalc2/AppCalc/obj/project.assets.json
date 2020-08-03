@@ -610,11 +610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\AppCalc.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\AppCalc.csproj",
       "projectName": "AppCalc",
-      "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\AppCalc.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\AppCalc.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc\\AppCalc\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppCalc2\\AppCalc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
