@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\bin\Debug\netstandard2.1\AppLanterna.deps.json
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\bin\Debug\netstandard2.1\AppLanterna.dll
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\obj\Debug\netstandard2.1\AppLanterna.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\obj\Debug\netstandard2.1\AppLanterna.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\obj\Debug\netstandard2.1\AppLanterna.AssemblyInfo.cs
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\bin\Debug\netstandard2.1\ref\AppLanterna.dll
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\bin\Debug\netstandard2.1\AppLanterna.pdb
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\obj\Debug\netstandard2.1\AppLanterna.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\obj\Debug\netstandard2.1\AppLanterna.dll
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\obj\Debug\netstandard2.1\ref\AppLanterna.dll
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\obj\Debug\netstandard2.1\AppLanterna.pdb
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\bin\Debug\netstandard2.1\Imagens\desligado.png
+C:\Users\User\source\repos\AppsXamarin\AppLanterna\AppLanterna\bin\Debug\netstandard2.1\Imagens\ligado.png

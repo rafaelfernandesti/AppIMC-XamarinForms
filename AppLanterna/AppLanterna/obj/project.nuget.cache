@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DErT/1dJazMR4TWTWjR0JEQdAF1oNYMNOkEFhLn8hKJsrX2/wbJn/1WR1pPXy/5zMf05R8WQ8cCXGdBpPuIxGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\AppsXamarin\\AppLanterna\\AppLanterna\\AppLanterna.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xam.plugin.battery\\4.0.1\\xam.plugin.battery.4.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.forms\\4.7.0.1239\\xamarin.forms.4.7.0.1239.nupkg.sha512"
+  ],
+  "logs": []
+}
