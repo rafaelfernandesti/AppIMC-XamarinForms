@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="#141414"
+             x:Class="App4_GuiaDev.MainPage">
+
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu">
+            <Grid BackgroundColor="#202020">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="160"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Frame Grid.Row="0"
+                       CornerRadius="10"
+                       BackgroundColor="#F3F3F3"
+                       Margin="10, 10, 10, 10">
+                    <StackLayout>
+                        <Image Source="@drawable/logo.png" Aspect="AspectFill"/>
+                        <Label Text="www.etec.sp.gov.br"
+                               HorizontalOptions="Center"
+                               FontSize="Medium"
+                               TextColor="White"
+                               Padding="5"/>
+                    </StackLayout>
+                </Frame>
+                <Frame Grid.Row="1"
+                       CornerRadius="10"
+                       BackgroundColor="#E0E0E0"
+                       Margin="10, 0, 10, 0">
+                    <StackLayout
+                             Spacing="10"
+                             Margin="10"
+                             Padding="10"
+                             BackgroundColor="#F0F0F0">
+                        <Button Text="Inicial"
+                                Style="{StaticResource botaoVermelho}"
+                                Clicked="Button_Clicked"/>
+                        <Button Text="Banco de dados"
+                                Style="{StaticResource botaoEscuro}"
+                                Clicked="Button_Clicked_1"/>
+                        <Button Text="Web"
+                                Style="{StaticResource botaoEscuro}"
+                                Clicked="Button_Clicked_2"/>
+                        <Button Text="Mobile"
+                                Style="{StaticResource botaoEscuro}"
+                                Clicked="Button_Clicked_3"/>
+                        <Button Text="Sistemas Operacionais"
+                                Style="{StaticResource botaoEscuro}"
+                                Clicked="Button_Clicked_4"/>
+                        <Button Text="Redes"
+                                Style="{StaticResource botaoEscuro}"
+                                Clicked="Button_Clicked_5"/>
+                        <Button Text="Contato Etec"
+                                Style="{StaticResource botaoVermelho}"
+                                Clicked="Button_Clicked_6"/>
+                    </StackLayout>
+                </Frame>
+                
+
+            </Grid>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+            
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

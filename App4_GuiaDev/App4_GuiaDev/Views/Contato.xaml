@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App4_GuiaDev.Views.Contato">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Style="{StaticResource textoCentralizado}"
+                   Margin="0, 20, 0, 0">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Etec de Guarulhos"
+                              FontAttributes="Bold"
+                              FontSize="Title"/>
+                        <Span Text="Centro Paula Souza"/>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Label Text="Endereço:"
+                   FontAttributes="Bold"
+                   Margin="0,20,0,0"
+                   Style="{StaticResource textoCentralizado}"/>
+            <Label Text="R. Cristóbal Cláudio Elillo, 88"
+                   Style="{StaticResource textoCentralizado}"/>
+            <Label Text="Parque Cecap"
+                   Style="{StaticResource textoCentralizado}"/>
+            <StackLayout Spacing="10"
+                         Padding="10"
+                         Margin="10">
+                <Button Text="11 2087-2544"
+                        Style="{StaticResource botaoVermelho}"
+                        Clicked="Button_Clicked"/>
+                <Button Text="Enviar e-mail"
+                        Style="{StaticResource botaoEscuro}"
+                        Clicked="Button_Clicked_1"/>
+                <Button Text="Chamar no WhatsApp"
+                        Style="{StaticResource botaoVermelho}"
+                        Clicked="Button_Clicked_2"/>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

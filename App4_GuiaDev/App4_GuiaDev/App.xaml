@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App4_GuiaDev.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="Botao" TargetType="Button">
+                <Setter Property="CornerRadius" Value="10"/>
+                <Setter Property="TextColor" Value="#FFF"/>
+            </Style>
+            <Style x:Key="botaoEscuro" TargetType="Button" BasedOn="{StaticResource Botao}">
+                <Setter Property="BackgroundColor" Value="#3E474C"/>
+            </Style>
+            <Style x:Key="botaoVermelho" TargetType="Button" BasedOn="{StaticResource Botao}">
+                <Setter Property="BackgroundColor" Value="#EA131F"/>
+            </Style>
+            <Style x:Key="textoEtec" TargetType="Label">
+                <Setter Property="FontSize" Value="Medium"/>
+                <Setter Property="TextColor" Value="#141414"/>
+            </Style>
+            <Style x:Key="textoCentralizado" TargetType="Label">
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

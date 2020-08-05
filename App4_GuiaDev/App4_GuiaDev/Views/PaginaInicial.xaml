@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="Página Inicial"
+             x:Class="App4_GuiaDev.Views.PaginaInicial">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand"
+                     HorizontalOptions="CenterAndExpand"
+                     Padding="10">
+            <Label Text="Bem-vindo ao App GuiaDev"
+                   FontAttributes="Bold"
+                   FontSize="Title"
+                   HorizontalTextAlignment="Center"/>
+            <Label Text="O objetivo deste projeto é elencar os principais tópicos relacionados à área de Tecnologia da Informação, 
+                   indicando um caminho de estudos para você, aluno da Etec."
+                   FontSize="Large"
+                   HorizontalTextAlignment="Center"/>
+            <Label FontSize="Medium" HorizontalTextAlignment="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="São 5 grandes áreas:"/>
+                        <Span Text="Banco de dados" Style="{StaticResource textoEtec}"/>
+                        <Span Text=", "/>
+                        <Span Text="Programação WEB" Style="{StaticResource textoEtec}"/>
+                        <Span Text=", "/>
+                        <Span Text="Programação MOBILE" Style="{StaticResource textoEtec}"/>
+                        <Span Text=", "/>
+                        <Span Text="Sistemas Operacionais" Style="{StaticResource textoEtec}"/>
+                        <Span Text=" e "/>
+                        <Span Text="Redes de Computadores" Style="{StaticResource textoEtec}"/>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
