@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EtecGru.Views.Contato"
+             Title="Contato">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <TableView Intent="Form">
+                <TableRoot>
+                    <TableSection Title="Mensagem">
+                        <EntryCell Label="Digite seu nome" x:Name="entryNome" Keyboard="Text"/>
+                        <EntryCell Label="Digite seu e-mail" x:Name="entryEmail" Keyboard="Email"/>
+                        <EntryCell Label="Digite a mensagem" x:Name="entryMensagem"/>
+                        <ViewCell>
+                            <Button Text="Enviar mensagem" x:Name="btnEnviarMensagem" Clicked="btnEnviarMensagem_Clicked" BackgroundColor="#28a745"/>
+                        </ViewCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+            <Button Text="Abrir site da escola" x:Name="btnSite" Clicked="btnSite_Clicked" BackgroundColor="#007bff"/>
+            <Button
+                Text="Ligar para escola"
+                x:Name="btnLigar"
+                Clicked="btnLigar_Clicked"
+                BackgroundColor="#007bff"
+                />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

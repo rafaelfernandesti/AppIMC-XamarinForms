@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\bin\Debug\netstandard2.0\App4_GuiaDev.deps.json
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\bin\Debug\netstandard2.0\App4_GuiaDev.dll
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\bin\Debug\netstandard2.0\ref\App4_GuiaDev.dll
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\bin\Debug\netstandard2.0\App4_GuiaDev.pdb
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\App4_GuiaDev.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\Views\Contato.xaml.g.cs
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\Views\PaginaInicial.xaml.g.cs
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\App4_GuiaDev.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\App4_GuiaDev.AssemblyInfo.cs
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\App4_GuiaDev.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\App4_GuiaDev.dll
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\ref\App4_GuiaDev.dll
+C:\Users\User\source\repos\AppsXamarin\App4_GuiaDev\App4_GuiaDev\obj\Debug\netstandard2.0\App4_GuiaDev.pdb

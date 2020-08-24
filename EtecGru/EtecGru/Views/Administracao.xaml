@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EtecGru.Views.Administracao"
+             Title="Téc. Administração">
+    <Grid Padding="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Image Source="ico_adm"
+               WidthRequest="{OnPlatform iOS=300, Android=250}"
+               VerticalOptions="Start"
+               HorizontalOptions="Center" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"/>
+        <Label
+            x:Name="lblDescricaoAdm"
+            Grid.Column="0"
+            HorizontalTextAlignment="Center"
+            Grid.Row="1"
+            Grid.ColumnSpan="2"
+            LineBreakMode="WordWrap"
+            MaxLines="50"
+            Text="Texto padrão"
+            Padding="5"
+            />
+        <Frame
+            BackgroundColor="#28a745"
+            
+            CornerRadius="5"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Grid.Row="2">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Image Source="certification" Margin="0,0,10,0"/>
+                <Label
+                Text="Certificações parciais"
+                FontSize="Body"
+                TextColor="White"
+                VerticalOptions="Center"
+                HorizontalTextAlignment="Center"
+            />
+            </StackLayout>
+           
+        </Frame>
+        <Label 
+            Text="1º MÓDULO"
+            Grid.Column="0"
+            Grid.Row="3"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontAttributes="Bold"
+            FontSize="Title"
+            />
+        <Label
+            Text="AUXILIAR ADMINISTRATIVO"
+            Grid.Column="1"
+            Grid.Row="3"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontAttributes="Bold"
+            FontSize="Subtitle"
+            />
+        <Label 
+            Text="2º MÓDULO"
+            Grid.Column="0"
+            Grid.Row="4"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontAttributes="Bold"
+            FontSize="Title"
+            />
+        <Label
+            Text="ASSISTENTE ADMINISTRATIVO"
+            Grid.Column="1"
+            Grid.Row="4"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontAttributes="Bold"
+            FontSize="Subtitle"
+            />
+        <Label 
+            Text="3º MÓDULO"
+            Grid.Column="0"
+            Grid.Row="5"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontAttributes="Bold"
+            FontSize="Title"
+            />
+        <Label
+            Text="TÉCNICO EM ADMINISTRAÇÃO"
+            Grid.Column="1"
+            Grid.Row="5"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontAttributes="Bold"
+            FontSize="Subtitle"
+            />
+        <Button
+            Text="Verificar Estágios"
+            x:Name="BtnEstagios"
+            Clicked="BtnEstagios_Clicked"
+            FontSize="Large"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Grid.Row="6"
+            BackgroundColor="#007bff"
+            />
+    </Grid>
+        
+</ContentPage>
