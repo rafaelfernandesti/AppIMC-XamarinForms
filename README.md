@@ -5,3 +5,4 @@ Repositório para projetos desenvolvidos em capacitação de Xamarin Forms no m�
 <h1>Projeto 2:</h1> Calculadora simples
 <h1>Projeto 3:</h1> Consulta de status da Bateria e uso da Lanterna
 <h1>Projeto 4:</h1> App com MasterDetail (Menu Sanduíche)
+<h1>Projeto Final:</h1> App com MasterDetail (Menu Sanduíche) para Etec
